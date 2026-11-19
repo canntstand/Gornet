@@ -1,4 +1,4 @@
-![Gornet](icons/gornet-logo-horizontal.svg)
+![Gornet](icons/gornet-logo.svg)
 
 > Проект в разработке. Ниже — первичный концепт.
 
